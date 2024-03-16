@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobetoTask1", "TobetoTask1\TobetoTask1.csproj", "{538608B8-E52E-4C54-A223-B5E9090CF4C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TobetoTask1", "TobetoTask1\TobetoTask1.csproj", "{538608B8-E52E-4C54-A223-B5E9090CF4C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobetoTask5", "TobetoTask5\TobetoTask5.csproj", "{B24FAD32-8FD3-4682-BA67-424A72ABE309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{538608B8-E52E-4C54-A223-B5E9090CF4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{538608B8-E52E-4C54-A223-B5E9090CF4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{538608B8-E52E-4C54-A223-B5E9090CF4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24FAD32-8FD3-4682-BA67-424A72ABE309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24FAD32-8FD3-4682-BA67-424A72ABE309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24FAD32-8FD3-4682-BA67-424A72ABE309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24FAD32-8FD3-4682-BA67-424A72ABE309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
